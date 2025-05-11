@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **m.rohit48566@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14da8j15kU81iBcqZyszYBZplPvPhfgxj/view?usp=sharing](https://drive.google.com/file/d/14da8j15kU81iBcqZyszYBZplPvPhfgxj/view?usp=sharing)
+- 📄 Know about my experiences [RESUME]([https://drive.google.com/file/d/14da8j15kU81iBcqZyszYBZplPvPhfgxj/view?usp=sharing](https://drive.google.com/file/d/1BKkGZ5EIa4Rg3BFILpwKDtzPT4Z5SX8j/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
