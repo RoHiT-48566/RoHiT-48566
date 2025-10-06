@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **cloud services & AIML.**
 
-- 👯 I’m looking to collaborate on [NaviGo](https://github.com/RoHiT-48566/NaviGo)
-
 - 💬 Ask me about **javascript, react, mongodb, fastapi & chromadb.**
 
 - 📫 How to reach me **m.rohit48566@gmail.com**
 
-- 📄 Know about my experiences [Click](https://drive.google.com/file/d/1BKkGZ5EIa4Rg3BFILpwKDtzPT4Z5SX8j/view?usp=sharing)
+- 📄 Know about my experiences [Click](https://drive.google.com/file/d/1-kjYtKxHv8jbyH7iZS1JGl0sIAjhy2W2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
