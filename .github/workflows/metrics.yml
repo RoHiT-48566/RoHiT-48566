@@ -1,0 +1,29 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # updates every 6 hours
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: RoHiT-48566
+          template: classic
+
+          base: header, activity, repositories, community
+
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_achievements: yes
+          plugin_stars: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          config_timezone: Asia/Kolkata
+          filename: github-metrics.svg
