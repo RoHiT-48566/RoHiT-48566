@@ -61,7 +61,6 @@ Focused on building scalable full-stack systems and AI-powered applications.
 
 </div>
 <div align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-48566&" alt="rohit-48566" /></p>
-
+  <img src="https://streak-stats.demolab.com?user=rohit-48566&theme=react" alt="GitHub Streak" />
 </div>
+
